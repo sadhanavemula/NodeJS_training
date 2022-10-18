@@ -1,0 +1,61 @@
+{
+  "employees": [
+    {
+      "id": 101,
+      "name": "King Kpchar",
+      "salary": 12000,
+      "address": {
+        "street_name": "civil Lines",
+        "city": "Delhi",
+        "country": "india"
+      }
+    },
+    {
+      "id": 102,
+      "name": "shreya",
+      "salary": 22000,
+      "address": {
+        "street_name": "civil Lines",
+        "city": "Delhi",
+        "country": "india"
+      }
+    },
+    {
+      "id": 103,
+      "name": "karthik",
+      "salary": 32000,
+      "address": {
+        "street_name": "civil Lines",
+        "city": "Delhi",
+        "country": "india"
+      }
+    },
+    {
+      "id": 104,
+      "name": "Ramesh",
+      "salary": 52000,
+      "address": {
+        "street_name": "civil Lines",
+        "city": "Delhi",
+        "country": "india"
+      }
+    }
+  ],
+  "users": [
+    {
+      "id": 101,
+      "name": "King Kpchar",
+      "age": 21
+    },
+    {
+      "id": 102,
+      "name": "veena",
+      "age": 21
+    },
+    {
+      "name": "vedanvika",
+      "age": 3,
+      "id": 103
+    }
+  ]
+}

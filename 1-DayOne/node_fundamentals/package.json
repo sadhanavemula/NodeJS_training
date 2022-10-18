@@ -1,0 +1,19 @@
+{
+  "name": "test-project",
+  "version": "1.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NPM",
+    "NOdeJS"
+  ],
+  "author": "Bhawna Gunwani",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.2.1",
+    "jquery": "^3.6.1"
+  }
+}

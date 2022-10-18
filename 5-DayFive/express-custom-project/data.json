@@ -1,0 +1,23 @@
+{
+    "user_1": {
+        "id": 101,
+        "name": "King Kochhar",
+        "email": "king.kochhar@gmai.com",
+        "age": 23,
+        "salary": 12000
+    },
+    "user_2": {
+        "id": 102,
+        "name": "John Smith",
+        "email": "john.smith@gmai.com",
+        "age": 30,
+        "salary": 25000
+    },
+    "user_3": {
+        "id": 103,
+        "name": "Gautam Bhalla",
+        "email": "gautam.bhalla@gmai.com",
+        "age": 40,
+        "salary": 45000
+    }
+}
